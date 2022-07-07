@@ -22,10 +22,10 @@ The fields on the left side are ready to actively listen to any information that
 
 # Summary
 
-The page we have designed is a helpful tool that allows any UFO enthusiast to search and filter for any sightings inside our dataset using the search bars created. 
+The page we have designed is a helpful tool that allows any UFO enthusiast to search and filter for any sightings inside our dataset using the search bars created.  
 
 ### Suggestions:
 * Add a field somewhere on the page that states when it was last updated to help those who visit the site to know how curent is the information.
 
-* Create a form for individuals to submit their own sightings
+* Create a form for individuals to submit their own sightings 
 
